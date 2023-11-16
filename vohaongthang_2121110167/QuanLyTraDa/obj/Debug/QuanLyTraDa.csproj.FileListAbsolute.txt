@@ -1,0 +1,14 @@
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\bin\Debug\QuanLyTraDa.exe.config
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\bin\Debug\QuanLyTraDa.exe
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\bin\Debug\QuanLyTraDa.pdb
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.csproj.AssemblyReference.cache
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.fLogin.resources
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.Properties.Resources.resources
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.csproj.GenerateResource.cache
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.csproj.CoreCompileInputs.cache
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.exe
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.pdb
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.fAccountProfile.resources
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.fAdmin.resources
+E:\Downloads\c#\Bai_bao_cao\vohaongthang_2121110167\QuanLyTraDa\obj\Debug\QuanLyTraDa.fTableManager.resources
